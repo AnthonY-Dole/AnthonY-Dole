@@ -1,4 +1,4 @@
-![alt text](waveTop.svg)
+![alt text](wavesTop.svg)
 
 <h1 align="center">Hi👋</h1>
 <p align="center">
