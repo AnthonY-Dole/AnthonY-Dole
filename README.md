@@ -1,7 +1,7 @@
-![alt text](top.svg)
+![alt text](waveTop.svg)
 
-Hello 👋
-Im a FUllSTack developper junior
+<h1 align="center">Hi👋</h1>
+<p align="center">
 
 
 
@@ -12,7 +12,7 @@ Im a FUllSTack developper junior
 
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](waveBottom.svg)
 
 
 <!---
