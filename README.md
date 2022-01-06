@@ -12,7 +12,7 @@
 
 </p>
 
-![alt text](waveBottom.svg)
+![alt text](waves.svg)
 
 
 <!---
